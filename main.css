@@ -1,3 +1,7 @@
 body {
     background-color: blueviolet;
 }
+
+.card-spacer {
+    margin-bottom: 15px;
+}
